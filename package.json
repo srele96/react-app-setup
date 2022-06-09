@@ -1,7 +1,7 @@
 {
   "name": "initial-setup",
   "version": "0.1.0",
-  "description": "create-react-app initial setup",
+  "description": "An example that renders react tree in the nested HTML structure.",
   "scripts": {
     "start": "react-scripts start"
   },

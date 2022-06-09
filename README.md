@@ -1,3 +1,3 @@
-# Initial setup
+# Nested root
 
-The manual project setup with react scripts from an empty folder.
+An example that renders react tree in the nested HTML structure.
