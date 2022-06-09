@@ -1,7 +1,17 @@
 import { createRoot } from 'react-dom/client';
 
-function App() {
-  return <h1>React App Setup</h1>
+function Foo() {
+  return <h1>Foo Root</h1>
 }
 
-createRoot(document.getElementById('root')).render(<App />);
+function Bar() {
+  return <h1>Bar</h1>
+}
+
+function Baz() {
+  return <h1>Baz</h1>
+}
+
+createRoot(document.getElementById('foo')).render(<Foo />);
+createRoot(document.getElementById('bar')).render(<Bar />);
+createRoot(document.getElementById('baz')).render(<Baz />);
