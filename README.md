@@ -1,3 +1,3 @@
-# Initial setup
+# Using CSS
 
-The manual project setup with react scripts from an empty folder.
+The react-scripts support every we need.

@@ -1,7 +1,7 @@
 {
   "name": "initial-setup",
   "version": "0.1.0",
-  "description": "create-react-app initial setup",
+  "description": "The react-scripts support every we need.",
   "scripts": {
     "start": "react-scripts start"
   },
