@@ -1,3 +1,3 @@
-# Initial setup
+# Multi-root setup
 
-The manual project setup with react scripts from an empty folder.
+The multi-root is the fancy name for calling create root function multiple times.
